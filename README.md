@@ -45,6 +45,7 @@ To create the solid model from given drawing and section the solid model
 ![Uploading Screenshot 2025-12-25 210715.png…]()
 
 
+
 ## RESULT:
 Thus, the cut section for solid model is created.
 
